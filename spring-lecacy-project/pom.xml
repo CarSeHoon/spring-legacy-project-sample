@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- 
 	작성자 : 차세훈
-	작성일: 22-10-20
+	작성일: 22-10-24
     내용 : Maven Spring Legacy Proejct 세팅
     메이븐 사용 이유	1. 인터넷에서 라이브러리 파일을 가지고올 수 있다.	 -> dependencies dependencie로 라이브러리 추가
     			2. .java 파일을 .class 파일로 컴파일 해준다. -> mvn compile
-    			3. .war 파일로 만들어준다.  				 -> mvn package
+    			3. .war 파일로 만들어준다.				 -> mvn package
  -->
  
  <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
